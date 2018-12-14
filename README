@@ -10,7 +10,7 @@ In order to build the documentation, use ``make htmldocs`` or
 
     https://www.kernel.org/doc/html/latest/
 
-There are various text files in the Documentation/ subdirectory,
+There are various text file in the Documentation/ subdirectory,
 several of them using the Restructured Text markup notation.
 See Documentation/00-INDEX for a list of what is contained in each file.
 
